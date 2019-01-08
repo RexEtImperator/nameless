@@ -1,15 +1,13 @@
-# Polish language for NamelessMC V2
+# Polish language for NamelessMC V2 Pre-Release 5
 
- - translated :arrow_right: 70%
+ - translated :arrow_right: 99%
 
-Translated modules
- - Members List(by Partydragen) :arrow_right: 100%
- - Nextyle :arrow_right: 100%
+Translated modules:
+ - DefaultTheme(Samerton) :arrow_right: 100%
+ - Members List(Partydragen) :arrow_right: 100%
+ - Nextyle(Nexious) :arrow_right: 100%
 
 
-TODO
- - Vote Module(by Partydragen) :arrow_right: 0%
- - Nameless Websend(by Samerton) :arrow_right: 0%
 
 
 
