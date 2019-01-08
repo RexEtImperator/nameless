@@ -15,3 +15,5 @@ TODO
 
 :heavy_exclamation_mark::heavy_exclamation_mark: Do you see errors? Please write about this error ;). :heavy_exclamation_mark::heavy_exclamation_mark:
 :heavy_exclamation_mark::heavy_exclamation_mark: Czy widzisz błędy? Proszę napisz o takim błędzie ;). :heavy_exclamation_mark::heavy_exclamation_mark:
+
+https://github.com/RexEtImperator/nameless/issues
